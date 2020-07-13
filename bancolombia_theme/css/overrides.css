@@ -1,0 +1,64 @@
+/*menú de login y header*/
+.region-header a, .region-header a:visited {
+    color: #05386b;
+}
+
+.dropitmenu ul.dropit-submenu a {
+    color: #05386b;
+}
+
+.dropitmenu ul.dropit-submenu a:hover {
+   background: none;
+}
+
+.region-header a:hover, .region-header a:focus, .region-header a:active {
+    color: #05386b !important;
+    opacity: 0.6;
+    text-decoration: none;
+}
+
+/* Estilos para el menu principal y enlaces*/
+#menu-bar {
+    background-color: #ffffff;
+}
+
+#menu-bar a.active {
+    color: #ffc902 !important;
+}
+
+#menu-bar a.active, .nav .block-menu ul a:focus, .nav .block-menu ul a:hover, .nav .block-menu ul a:active {
+    border-bottom: 2px solid #ffc902;
+}
+
+.nav .block-menu ul a:focus, .nav .block-menu ul a:hover, .nav .block-menu ul a:active {
+    color: #05386b;
+    opacity: 0.6;
+    text-decoration: none;
+}
+
+#page > header {
+    background-color: #ffffff;
+    border-bottom: 0px;
+}
+
+body.not-front #page > header {
+    border-bottom: 0px;
+}
+
+.nav .block-menu ul li a {
+    color: #05386b;
+    opacity: 0.95;
+}
+
+img.site-logo {
+    margin-top: 10px;
+}
+
+/* footer */
+#page > footer, #page > footer .block-title {
+    background-color: #58595b;
+}
+
+#page > footer a, #page > footer a:visited {
+    color: #ffffff;
+}

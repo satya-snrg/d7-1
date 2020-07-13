@@ -1,0 +1,21 @@
+
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 15 0 15 14.2105263 0 14.2105263"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Inicio" transform="translate(-676.000000, -4508.000000)">
+            <g id="Group-8-Copy-3" transform="translate(641.000000, 4403.000000)">
+                <g id="Group-3-Copy" transform="translate(35.000000, 105.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M6.69532853,0.494328462 L4.86449066,4.16862661 L0.768236249,4.75973349 C0.0336581143,4.86518917 -0.260733886,5.76156251 0.271975448,6.2749652 L3.23552159,9.13336935 L2.53458825,13.1712121 C2.40842025,13.9011042 3.18505439,14.4477809 3.83552052,14.1064375 L7.5,12.1999097 L11.1644795,14.1064375 C11.8149736,14.4450058 12.5915797,13.9011042 12.4654117,13.1712121 L11.7644784,9.13336935 L14.7280246,6.2749652 C15.2607339,5.76156251 14.9663419,4.86518917 14.2317638,4.75973349 L10.1355093,4.16862661 L8.30467147,0.494328462 C7.97663467,-0.160606857 7.02616907,-0.168932306 6.69532853,0.494328462" id="Fill-1" fill="#FFD200" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

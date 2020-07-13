@@ -1,0 +1,21 @@
+
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7.17757009,12.8 L0.398753894,6.0211838 C-0.0697819315,5.55264798 -0.0697819315,4.79501558 0.398753894,4.33146417 L1.52523364,3.20498442 C1.99376947,2.7364486 2.75140187,2.7364486 3.21495327,3.20498442 L8.01993769,8.00996885 L12.8249221,3.20498442 C13.2934579,2.7364486 14.0510903,2.7364486 14.5146417,3.20498442 L15.6411215,4.33146417 C16.1096573,4.8 16.1096573,5.5576324 15.6411215,6.0211838 L8.8623053,12.8 C8.40373832,13.2685358 7.64610592,13.2685358 7.17757009,12.8 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Foros" transform="translate(-1622.000000, -329.000000)">
+            <g id="iconografia/Solid/angle-down" transform="translate(1622.000000, 327.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask"></g>
+                <g id="colores/iconos/gris" mask="url(#mask-2)" fill="#454648" fill-rule="evenodd">
+                    <rect x="0" y="0" width="16" height="16"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
